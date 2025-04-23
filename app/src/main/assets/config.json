@@ -1,0 +1,11 @@
+{
+  "endpoint": "77.239.98.167:43549",
+  "public_key": "h7jrvN8OODInJ1CCFCXC1fkoZI0ytwICumac314p4Bg=",
+  "dns": ["1.1.1.1", "1.0.0.1"],
+  "allowed_apps": [
+    "com.discord",
+    "com.discord.beta",
+    "com.discord.canary"
+  ],
+  "auth": "invite_code"
+}
